@@ -1,0 +1,756 @@
+1605327641839	geckodriver	INFO	Listening on 127.0.0.1:9103
+1605327642395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofilezbMwWy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605327648688	Marionette	INFO	Listening on port 9108
+1605327648816	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605328161600	Marionette	INFO	Stopped listening on port 9108
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605328198713	geckodriver	INFO	Listening on 127.0.0.1:9438
+1605328199232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofilei3Y9ep"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605328202578	Marionette	INFO	Listening on port 9443
+1605328202913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605328264822	Marionette	INFO	Stopped listening on port 9443
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605328703872	geckodriver	INFO	Listening on 127.0.0.1:10000
+1605328703959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileFItkYF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605328707532	Marionette	INFO	Listening on port 10006
+1605328707624	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.warn: services.settings: Error retrieving the getLastModified timestamp from blocklists/plugins RemoteSettingsClient Message: Error: IndexedDB: blocklists/plugins getLastModified() IndexedDB:  execute() The application is shutting down
+1605328713446	Marionette	INFO	Stopped listening on port 10006
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource:///modules/EveryWindow.jsm, line 37: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+1605329330280	geckodriver	INFO	Listening on 127.0.0.1:10551
+1605329330787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofilet4h39t"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605329334806	Marionette	INFO	Listening on port 10556
+1605329334967	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605329337602	Marionette	INFO	Stopped listening on port 10556
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605329454596	geckodriver	INFO	Listening on 127.0.0.1:10783
+1605329454621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileSx5Yja"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605329459043	Marionette	INFO	Listening on port 10788
+1605329459130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1605329463610	Marionette	INFO	Stopped listening on port 10788
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB40006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: services.settings: Error retrieving the getLastModified timestamp from blocklists/plugins RemoteSettingsClient Message: Error: IndexedDB: blocklists/plugins getLastModified() IndexedDB:  execute() The application is shutting down
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605329494343	geckodriver	INFO	Listening on 127.0.0.1:10930
+1605329494859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofilekeIXON"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605329499378	Marionette	INFO	Listening on port 10935
+1605329499628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1605329504855	Marionette	INFO	Stopped listening on port 10935
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.lxWnu1hBKXI.es5.O/am=UA/d=1/excm=_b,_tp,appwidgetnoauthview/ed=1/dg=0/wt=2/ct=zgms/rs=AM-SdHvHpZWmQcWln51r1jcLBamspnfLdg/m=_b,_tp, line 420: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605329513827	geckodriver	INFO	Listening on 127.0.0.1:11003
+1605329514298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileFc4rZg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605329518882	Marionette	INFO	Listening on port 11009
+1605329519331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1605329522655	Marionette	INFO	Stopped listening on port 11009
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdowconsole.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+n.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+console.warn: services.settings: Error retrieving the getLastModified timestamp from blocklists/plugins RemoteSettingsClient Message: Error: IndexedDB: blocklists/plugins getLastModified() IndexedDB:  execute() The application is shutting down
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource:///modules/EveryWindow.jsm, line 37: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+1605338683905	geckodriver	INFO	Listening on 127.0.0.1:2078
+1605338684420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileVRIjp6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605338689439	Marionette	INFO	Listening on port 2083
+1605338689697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.46270e44.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605338719578	Marionette	INFO	Stopped listening on port 2083
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605338778802	geckodriver	INFO	Listening on 127.0.0.1:2253
+1605338779305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofilekXYiN6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605338782763	Marionette	INFO	Listening on port 2258
+1605338782979	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.46270e44.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605338845120	Marionette	INFO	Stopped listening on port 2258
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605338917110	geckodriver	INFO	Listening on 127.0.0.1:2502
+1605338917625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileu2kKNO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605338921075	Marionette	INFO	Listening on port 2510
+1605338921279	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.46270e44.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605339028900	Marionette	INFO	Stopped listening on port 2510
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605339213253	geckodriver	INFO	Listening on 127.0.0.1:2915
+1605339213270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileYsfU2V"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605339216896	Marionette	INFO	Listening on port 2920
+1605339216939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.46270e44.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605339248586	Marionette	INFO	Stopped listening on port 2920
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605339292775	geckodriver	INFO	Listening on 127.0.0.1:3027
+1605339293270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofilerVSRq6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605339296378	Marionette	INFO	Listening on port 3032
+1605339296445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.46270e44.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605339311950	Marionette	INFO	Stopped listening on port 3032
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605376245240	geckodriver	INFO	Listening on 127.0.0.1:3661
+1605376245311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileSmc6Q4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605376250981	Marionette	INFO	Listening on port 3666
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605376252621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605376290617	Marionette	INFO	Stopped listening on port 3666
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605376395609	geckodriver	INFO	Listening on 127.0.0.1:3850
+1605376395630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileJOAjc2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605376399714	Marionette	INFO	Listening on port 3855
+1605376399758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605376433435	Marionette	INFO	Stopped listening on port 3855
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605376575761	geckodriver	INFO	Listening on 127.0.0.1:4039
+1605376575789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileZHKZvW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605376579534	Marionette	INFO	Listening on port 4044
+1605376579955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605376585496	Marionette	INFO	Stopped listening on port 4044
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605377351492	geckodriver	INFO	Listening on 127.0.0.1:4942
+1605377351511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileCgMEBa"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605377355925	Marionette	INFO	Listening on port 4947
+1605377356286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605377362910	Marionette	INFO	Stopped listening on port 4947
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605377375955	geckodriver	INFO	Listening on 127.0.0.1:5018
+1605377376473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileRtmX2P"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605377379788	Marionette	INFO	Listening on port 5023
+1605377380141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605377385557	Marionette	INFO	Stopped listening on port 5023
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605379137089	geckodriver	INFO	Listening on 127.0.0.1:5872
+1605379137106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofilemGchtC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605379140773	Marionette	INFO	Listening on port 5877
+1605379141286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605379148103	Marionette	INFO	Stopped listening on port 5877
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605379205369	geckodriver	INFO	Listening on 127.0.0.1:5992
+1605379205895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileYspHYH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605379209128	Marionette	INFO	Listening on port 5999
+1605379209567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\IT Training\AppData\Local\Temp\rust_mozprofileYspHYH\protections.sqlite
+1605379308837	Marionette	INFO	Stopped listening on port 5999
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Chconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605379310639	Marionette	INFO	Listening on port 6156
+1605379310827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605379316284	Marionette	INFO	Stopped listening on port 6156
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605379359323	geckodriver	INFO	Listening on 127.0.0.1:6263
+1605379359338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofilecF3NER"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605379362908	Marionette	INFO	Listening on port 6268
+1605379363013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605379369206	Marionette	INFO	Stopped listening on port 6268
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605379394879	geckodriver	INFO	Listening on 127.0.0.1:6364
+1605379395392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofiledSVuV1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605379399348	Marionette	INFO	Listening on port 6370
+1605379399585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605379423333	Marionette	INFO	Stopped listening on port 6370
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605379464943	geckodriver	INFO	Listening on 127.0.0.1:6586
+1605379465437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileLnpLLE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605379471526	Marionette	INFO	Listening on port 6591
+1605379472010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605379483006	Marionette	INFO	Stopped listening on port 6591
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\IT Training\AppData\Local\Temp\rust_mozprofileLnpLLE\protections.sqlite
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605379495644	geckodriver	INFO	Listening on 127.0.0.1:6651
+1605379496157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofile04QNnd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605379505443	Marionette	INFO	Listening on port 6656
+1605379505781	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605379515176	Marionette	INFO	Stopped listening on port 6656
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB40006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605379709472	geckodriver	INFO	Listening on 127.0.0.1:7054
+1605379709984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileyCQ16K"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605379715179	Marionette	INFO	Listening on port 7059
+1605379716857	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8488, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605379747134	Marionette	INFO	Stopped listening on port 7059
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileKXkprk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605379743270	Marionette	INFO	Listening on port 7137
+1605379743620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605379753506	Marionette	INFO	Stopped listening on port 7137
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605379839337	geckodriver	INFO	Listening on 127.0.0.1:7271
+1605379839846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofilerbT3Aq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605379844276	Marionette	INFO	Listening on port 7276
+1605379844371	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605379852486	Marionette	INFO	Stopped listening on port 7276
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\IT Training\AppData\Local\Temp\rust_mozprofilerbT3Aq\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605379966194	geckodriver	INFO	Listening on 127.0.0.1:7443
+1605379966711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileb7g07M"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605379970201	Marionette	INFO	Listening on port 7448
+1605379970374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605379997579	Marionette	INFO	Stopped listening on port 7448
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605380114880	geckodriver	INFO	Listening on 127.0.0.1:7677
+1605380115413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofilej63mTd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605380120446	Marionette	INFO	Listening on port 7682
+1605380120705	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605380129068	Marionette	INFO	Stopped listening on port 7682
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605380297119	geckodriver	INFO	Listening on 127.0.0.1:8018
+1605380297152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofilebLbOJF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605380300981	Marionette	INFO	Listening on port 8025
+1605380301073	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605380308281	Marionette	INFO	Stopped listening on port 8025
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\IT Training\AppData\Local\Temp\rust_mozprofilebLbOJF\protections.sqlite
+1605381340396	geckodriver	INFO	Listening on 127.0.0.1:9166
+1605381340910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileYMoy80"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605381344181	Marionette	INFO	Listening on port 9172
+1605381344574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605381352152	geckodriver	INFO	Listening on 127.0.0.1:9225
+1605381352690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileT3yJNA"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605381356072	Marionette	INFO	Listening on port 9231
+1605381356350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 12376, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1605381518741	Marionette	INFO	Stopped listening on port 9231
+\\rust_mozprofileK0kbEr"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605381422438	Marionette	INFO	Listening on port 9345
+1605381422862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 15128, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1605381516197	Marionette	INFO	Stopped listening on port 9345
+1605381527329	geckodriver	INFO	Listening on 127.0.0.1:9474
+1605381527829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileFHU1Wu"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605381532643	Marionette	INFO	Listening on port 9480
+1605381533129	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 13368, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1605381653594	Marionette	INFO	Stopped listening on port 9480
+ Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605381552867	Marionette	INFO	Listening on port 9577
+1605381553087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 9428, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1605381650365	Marionette	INFO	Stopped listening on port 9577
+1605381810488	geckodriver	INFO	Listening on 127.0.0.1:10047
+1605381811001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileguFzuL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605381814423	Marionette	INFO	Listening on port 10053
+1605381814686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1605381835965	Marionette	INFO	Stopped listening on port 10053
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+))
+1605381832807	Marionette	INFO	Listening on port 10124
+1605381833047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605381842958	Marionette	INFO	Stopped listening on port 10124
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605382450912	geckodriver	INFO	Listening on 127.0.0.1:10470
+1605382450930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofile1WNC9T"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605382453871	Marionette	INFO	Listening on port 10475
+1605382454100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605382459600	Marionette	INFO	Stopped listening on port 10475
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605382879725	geckodriver	INFO	Listening on 127.0.0.1:11067
+1605382880243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileoCUQnp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605382883828	Marionette	INFO	Listening on port 11073
+1605382883918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605382888971	Marionette	INFO	Stopped listening on port 11073
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605384613388	geckodriver	INFO	Listening on 127.0.0.1:11983
+1605384613408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileYsA8Ka"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605384617102	Marionette	INFO	Listening on port 11988
+1605384617577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605384624231	Marionette	INFO	Stopped listening on port 11988
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605384717786	geckodriver	INFO	Listening on 127.0.0.1:12128
+1605384717803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofilecsULvk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605384721139	Marionette	INFO	Listening on port 12133
+1605384721477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605384727436	Marionette	INFO	Stopped listening on port 12133
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605384753263	geckodriver	INFO	Listening on 127.0.0.1:12198
+1605384753280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofilez66oNK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605384756797	Marionette	INFO	Listening on port 12203
+1605384756966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605384762943	Marionette	INFO	Stopped listening on port 12203
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605384839018	geckodriver	INFO	Listening on 127.0.0.1:12432
+1605384839035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofilewN6WZ1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605384842589	Marionette	INFO	Listening on port 12437
+1605384842723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605384848434	Marionette	INFO	Stopped listening on port 12437
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605384915964	geckodriver	INFO	Listening on 127.0.0.1:12543
+1605384916480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileLiKuVT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605384920085	Marionette	INFO	Listening on port 12548
+1605384920152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605384925335	Marionette	INFO	Stopped listening on port 12548
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605385061169	geckodriver	INFO	Listening on 127.0.0.1:12749
+1605385061186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileXBrgAX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605385064116	Marionette	INFO	Listening on port 12754
+1605385064361	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605385070307	Marionette	INFO	Stopped listening on port 12754
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605385127110	geckodriver	INFO	Listening on 127.0.0.1:12862
+1605385127627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileWXJfec"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605385130805	Marionette	INFO	Listening on port 12869
+1605385131277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605385148776	Marionette	INFO	Stopped listening on port 12869
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605385415717	geckodriver	INFO	Listening on 127.0.0.1:13456
+1605385415735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofileFkxTB1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605385418994	Marionette	INFO	Listening on port 13461
+1605385419395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605385425076	Marionette	INFO	Stopped listening on port 13461
+[Parent 10168, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605385469936	geckodriver	INFO	Listening on 127.0.0.1:13531
+1605385469968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ITTRAI~1\\AppData\\Local\\Temp\\rust_mozprofilezYKHLc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605385472958	Marionette	INFO	Listening on port 13536
+1605385473144	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://covid-19.ontario.ca/covid-19-data/v2/static/js/main.d39a2049.chunk.js, line 1: TypeError: document.getElementById(...) is null
+1605385478443	Marionette	INFO	Stopped listening on port 13536
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
